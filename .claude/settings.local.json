@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create *)",
+      "Bash(cp -r temp-project/* temp-project/.* .)",
+      "Bash(rm -rf temp-project)",
+      "Bash(npm install *)",
+      "Bash(npm run *)",
+      "Bash(curl -s http://localhost:5173)",
+      "Bash(npx vite *)",
+      "Bash(curl -s http://localhost:5180)",
+      "Bash(xargs wc *)",
+      "Bash(node *)",
+      "Bash(curl -s http://localhost:5176)",
+      "Bash(git -C \"C:/Users/陈/Desktop/low-code\" status)"
+    ]
+  }
+}

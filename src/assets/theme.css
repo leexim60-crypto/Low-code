@@ -1,0 +1,34 @@
+:root {
+  /* 主色调 - 温暖橙色 */
+  --lc-primary: #f08a5d;
+  --lc-primary-light: #fff3ec;
+  --lc-primary-dark: #f5a57a;
+  --lc-primary-border: #fcd5c0;
+
+  /* 功能色 */
+  --lc-success: #67c23a;
+  --lc-warning: #e6a23c;
+  --lc-danger: #f56c6c;
+  --lc-info: #909399;
+
+  /* 文字色 */
+  --lc-text-primary: #303133;
+  --lc-text-regular: #606266;
+  --lc-text-secondary: #909399;
+  --lc-text-placeholder: #c0c4cc;
+
+  /* 边框色 */
+  --lc-border-base: #dcdfe6;
+  --lc-border-light: #e4e7ed;
+  --lc-border-lighter: #ebeef5;
+  --lc-border-extra-light: #f2f6fc;
+
+  /* 背景色 */
+  --lc-bg-base: #f5f7fa;
+  --lc-bg-white: #ffffff;
+  --lc-bg-page: #f0f2f5;
+
+  /* 选中/悬停 */
+  --lc-selected-outline: 2px solid var(--lc-primary);
+  --lc-hover-outline: 1px dashed var(--lc-primary);
+}
